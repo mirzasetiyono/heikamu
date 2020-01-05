@@ -8,6 +8,7 @@
 
 ## Features
 1. Job-seeker webapp landing pages.
-2. functional query
-3. data from local json
+2. Functional query
+3. Data from local json
+4. Responsive
 
