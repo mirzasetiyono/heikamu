@@ -1,0 +1,24 @@
+.title{
+    box-sizing: border-box;
+    border-bottom: #707070 solid 1px;
+    margin-left: 12px;
+    margin-right: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: bold;
+}
+
+.contentBox{
+    border-left: #707070 solid 1px;
+    font-weight: bold;
+    padding-top: 10px;  
+}
+
+.contentBoxLeft{
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.button{
+    width: inherit;
+}

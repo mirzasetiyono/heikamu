@@ -1,0 +1,92 @@
+.filterStyling{
+    text-align: end;
+    margin-bottom: -10px;
+    font-weight: bold;
+    letter-spacing: 0.1px;
+}
+
+.cardStyling{
+    border: #707070 solid 1px !important;
+    box-shadow: 2px 0px 5px 2px #DCDCDC;
+    border-radius: 6% !important;
+}
+
+.separator{
+    border-left: #707070 solid 1px;
+    padding: 0px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.coName{
+    border-bottom: #707070 solid 1px;
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 2px;
+    padding-bottom: 3px;
+}
+
+.position{
+    font-weight: bold;
+}
+
+.wage{
+    font-weight: 600;
+    color: #89CFF0;
+}
+
+.negotiable{
+    color: green
+}
+
+.notNegotiable{
+    color: red
+}
+.specValue{
+    color: inherit;
+}
+
+.specKeys{
+    color: #C0C0C0
+}
+
+.imgLogo{
+    padding-right: 0px;
+}
+
+.cardContentStyling{
+    display: flex;
+    height: inherit;
+    position: relative;
+}
+
+.main{
+    min-height : 70vh;
+}
+
+@media screen and (max-width: 768px){
+    .separator{
+        padding-left: 5px;
+    }
+    .respDesc{
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .imgLogo{
+        max-width: 150px;
+    }
+
+    .position{
+        font-size: 16px;
+    }
+    .wage{
+        font-size: 16px;
+    }
+    .wageNegotiable{
+        font-size: 15px;
+    }   
+}
+
+@media (min-width: 769px) and (max-width: 1215px){
+}
+

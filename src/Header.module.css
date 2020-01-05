@@ -1,0 +1,60 @@
+.logoStyling{
+    font-size: 35px;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 2px 1px white;
+}
+
+.navItem{
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.navItem:hover{
+    color: blue;
+    cursor: pointer;
+}
+
+.queryStyling{
+    display: flex;
+    border-bottom: #707070 solid 1px;
+    background-color: #f8f8ff;
+    padding-bottom: 15px;
+}
+
+.selectStyling{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+@media screen and (max-width: 768px){
+    .queryStyling{
+        display: block;
+    }
+
+    .selectStyling{
+        margin-left: 0px;    
+    }
+
+    .langStyling{
+        display: none;
+    }
+
+    .comp{
+        margin-top: 5px;
+        margin-bottom: 10px
+    }
+}
+
+@media (min-width: 785px) and (max-width: 1007px){
+    .langStyling{ 
+        display: none;
+    }
+    .comp{
+        margin-top: 5px;
+        margin-bottom: 10px
+    }
+}
+
+
+
