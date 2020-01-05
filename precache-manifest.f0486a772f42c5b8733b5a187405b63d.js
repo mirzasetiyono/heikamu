@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "636b38862f4cad6830e0dcb7874e2d51",
+    "revision": "ecbefa781bde92011d0f9118ad70602b",
     "url": "/heikamu/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/heikamu/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "224d81773ef6902f4670",
-    "url": "/heikamu/static/css/main.2b84145c.chunk.css"
+    "revision": "6c01a8658d32c0b64670",
+    "url": "/heikamu/static/css/main.2b7b5373.chunk.css"
   },
   {
     "revision": "76177a6c47b10c39d1c7",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/heikamu/static/js/2.e165dd55.chunk.js.LICENSE"
   },
   {
-    "revision": "224d81773ef6902f4670",
+    "revision": "6c01a8658d32c0b64670",
     "url": "/heikamu/static/js/main.33a7419e.chunk.js"
   },
   {

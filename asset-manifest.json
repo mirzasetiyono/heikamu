@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/heikamu/static/css/main.2b84145c.chunk.css",
+    "main.css": "/heikamu/static/css/main.2b7b5373.chunk.css",
     "main.js": "/heikamu/static/js/main.33a7419e.chunk.js",
     "main.js.map": "/heikamu/static/js/main.33a7419e.chunk.js.map",
     "runtime-main.js": "/heikamu/static/js/runtime-main.5db933c9.js",
@@ -9,17 +9,17 @@
     "static/js/2.e165dd55.chunk.js": "/heikamu/static/js/2.e165dd55.chunk.js",
     "static/js/2.e165dd55.chunk.js.map": "/heikamu/static/js/2.e165dd55.chunk.js.map",
     "index.html": "/heikamu/index.html",
-    "precache-manifest.ff4edaab94d679cc046c28c6bbe8b9df.js": "/heikamu/precache-manifest.ff4edaab94d679cc046c28c6bbe8b9df.js",
+    "precache-manifest.f0486a772f42c5b8733b5a187405b63d.js": "/heikamu/precache-manifest.f0486a772f42c5b8733b5a187405b63d.js",
     "service-worker.js": "/heikamu/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/heikamu/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.2b84145c.chunk.css.map": "/heikamu/static/css/main.2b84145c.chunk.css.map",
+    "static/css/main.2b7b5373.chunk.css.map": "/heikamu/static/css/main.2b7b5373.chunk.css.map",
     "static/js/2.e165dd55.chunk.js.LICENSE": "/heikamu/static/js/2.e165dd55.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.5db933c9.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.e165dd55.chunk.js",
-    "static/css/main.2b84145c.chunk.css",
+    "static/css/main.2b7b5373.chunk.css",
     "static/js/main.33a7419e.chunk.js"
   ]
 }
